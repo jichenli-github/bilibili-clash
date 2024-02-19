@@ -1,14 +1,14 @@
 # > bilibili
-DOMAIN,api.bilibili.tv
-DOMAIN,app.bilibili.com
-DOMAIN,passport.bilibili.com
-DOMAIN,message.bilibili.com
-DOMAIN,broadcast.chat.bilibili.com
-DOMAIN,api.bilibili.com
-DOMAIN,cm.bilibili.com
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biligame.com
+HOST,api.bilibili.tv
+HOST,app.bilibili.com
+HOST,passport.bilibili.com
+HOST,message.bilibili.com
+HOST,broadcast.chat.bilibili.com
+HOST,api.bilibili.com
+HOST,cm.bilibili.com
+HOST-SUFFIX,acg.tv
+HOST-SUFFIX,biliapi.com
+HOST-SUFFIX,biligame.com
 IP-CIDR,106.75.74.76/32
 IP-CIDR,111.206.25.147/32
 IP-CIDR,119.3.238.64/32
